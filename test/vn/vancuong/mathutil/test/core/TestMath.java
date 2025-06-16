@@ -46,7 +46,7 @@ public class TestMath {
         Assert.assertEquals(6, MathUtil.getFactorial(3));// tui muốn 1! cũng phỉa là 1
         Assert.assertEquals(24, MathUtil.getFactorial(4));// tui muốn 1! cũng phỉa là 1
         Assert.assertEquals(120, MathUtil.getFactorial(5));// tui muốn 1! cũng phỉa là 1
-        Assert.assertEquals(720, MathUtil.getFactorial(6));// tui muốn 1! cũng phỉa là 1
+        Assert.assertEquals(820, MathUtil.getFactorial(6));// tui muốn 1! cũng phỉa là 1
 
     }
 
