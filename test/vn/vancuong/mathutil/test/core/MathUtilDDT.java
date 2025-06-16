@@ -31,8 +31,8 @@ public class MathUtilDDT {
             {2,2},
             {3,6},
             {4,24},
-            {5,720},
-            {6,820},   
+            {5,120},
+            {6,720},   
         };    
     }
     //giả sử nó loop qua từng dòng cũa mảng ,ta vẩn cần gán từng value của cột 
