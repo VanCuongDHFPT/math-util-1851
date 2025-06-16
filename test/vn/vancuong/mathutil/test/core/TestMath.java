@@ -111,8 +111,7 @@ public class TestMath {
             //nhưng ko chắc ngoại lệ mình cần có xuất hiện hay ko??
             //có đoạn code kiểm soát ngoại lệ IllagaArguementExpection
             Assert.assertEquals("Invalid argument. N must be between 0 ..  20", e.getMessage());
-        }
-        
+        }    
     }
     
     
